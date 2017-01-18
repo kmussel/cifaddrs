@@ -1,4 +1,4 @@
 module CIfaddrs [system] {
-  header "/usr/include/ifaddrs.h"
+  header "shim.h"
   export *
 }
